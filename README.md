@@ -30,10 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuji0710/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuji0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuji0710/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
