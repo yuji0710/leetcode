@@ -41,8 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/yuji0710/leetcode/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/yuji0710/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
