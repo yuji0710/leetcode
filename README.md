@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuji0710/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0142-linked-list-cycle-ii](https://github.com/yuji0710/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/yuji0710/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yuji0710/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/yuji0710/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
