@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yuji0710/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuji0710/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/yuji0710/leetcode/tree/master/0043-multiply-strings) |
+| [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuji0710/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuji0710/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yuji0710/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/yuji0710/leetcode/tree/master/0137-single-number-ii) |
+| [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yuji0710/leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
