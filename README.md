@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuji0710/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/yuji0710/leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/yuji0710/leetcode/tree/master/0062-unique-paths) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuji0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yuji0710/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yuji0710/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yuji0710/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
