@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yuji0710/leetcode/tree/master/0043-multiply-strings) |
+| [0832-flipping-an-image](https://github.com/yuji0710/leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yuji0710/leetcode/tree/master/0137-single-number-ii) |
 | [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yuji0710/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/yuji0710/leetcode/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yuji0710/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yuji0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yuji0710/leetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/yuji0710/leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/yuji0710/leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yuji0710/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/yuji0710/leetcode/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
+| [0832-flipping-an-image](https://github.com/yuji0710/leetcode/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
 |  |
 | ------- |
