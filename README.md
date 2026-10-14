@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yuji0710/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/yuji0710/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yuji0710/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/yuji0710/leetcode/tree/master/0137-single-number-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yuji0710/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yuji0710/leetcode/tree/master/0063-unique-paths-ii) |
 | [0647-palindromic-substrings](https://github.com/yuji0710/leetcode/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yuji0710/leetcode/tree/master/0063-unique-paths-ii) |
 | [0212-word-search-ii](https://github.com/yuji0710/leetcode/tree/master/0212-word-search-ii) |
 | [0832-flipping-an-image](https://github.com/yuji0710/leetcode/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
